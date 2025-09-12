@@ -6,7 +6,7 @@ const daily = ()=>{
     <div>
 
         <div className="justi min-h-screen"></div>
-   
+   🙂🙂🙂
     </div>
     </>)
 }
