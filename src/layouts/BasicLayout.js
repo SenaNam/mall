@@ -12,7 +12,7 @@ const BasicLayout = ({ children }) => {
         </main>
 
         <aside className="bg-green-300 md:w-1/3 lg:w-1/4 p-5">
-          <h1 className="text-2xl md:text-4xl">SideBar</h1>
+          <h1 className="text-2xl md:text-4xl">SideBa111111r</h1>
         </aside>
       </div>
     </>
