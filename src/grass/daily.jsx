@@ -6,12 +6,12 @@ const daily = ()=>{
     <div>
 <div className="flex justify-start items-start w-[1200px] h-[411px] relative overflow-hidden gap-[120px] pl-[120px] pr-[105px] pb-px border-t-0 border-r-0 border-b border-l-0 border-[#ebeef0]">
   <div className="flex-grow-0 flex-shrink-0 w-[381px] h-[340px] relative overflow-hidden bg-[url('언젠가-만나게-될-거예요.-기업은행의-기업은-당신입니다..png')]" />
-  <div className="flex flex-col justify-start items-end flex-grow-0 flex-shrink-0 w-[474px] relative overflow-hidden gap-10 pt-5">
+  <div className="flex flex-col justify-start items-end flex-grow-0 flex-shrink-0 w-[474px] relative overflow-hidden gap-10 pt-5">``
     <div className="flex-grow-0 flex-shrink-0 w-[473px] h-[47px] relative">
       <div className="flex flex-col justify-start items-start w-[129.34px] absolute left-0 top-0 px-px pt-px rounded-tl-lg rounded-tr-lg bg-white border-t border-r border-b-0 border-l border-[#696e76]">
         <div className="flex flex-col justify-start items-center self-stretch flex-grow-0 flex-shrink-0 relative px-4 py-[15px]">
           <p className="self-stretch flex-grow-0 flex-shrink-0 w-[95.34px] text-sm text-center text-[#26282c]">
-            사업자용 인증서...........................................
+            사업자용 인증서..............................................
         </div>
         <div className="flex-grow-0 flex-shrink-0 w-[128.34px] h-px bg-white" />
       </div>
