@@ -11,7 +11,7 @@ const daily = ()=>{
       <div className="flex flex-col justify-start items-start w-[129.34px] absolute left-0 top-0 px-px pt-px rounded-tl-lg rounded-tr-lg bg-white border-t border-r border-b-0 border-l border-[#696e76]">
         <div className="flex flex-col justify-start items-center self-stretch flex-grow-0 flex-shrink-0 relative px-4 py-[15px]">
           <p className="self-stretch flex-grow-0 flex-shrink-0 w-[95.34px] text-sm text-center text-[#26282c]">
-            사업자용 인증서..........................................
+            사업자용 인증서.......................................
         <div className="flex-grow-0 flex-shrink-0 w-[128.34px] h-px bg-white" />
       </div>
       <div className="flex flex-col justify-start items-start w-[125.33px] absolute left-[129.34px] top-[3px] pr-px pt-px rounded-tl-lg rounded-tr-lg bg-[#f7f7f8] border-t border-r border-b-0 border-l-0 border-[#ebeef0]">
