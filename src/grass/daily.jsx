@@ -2,7 +2,8 @@
 
 const daily = ()=>{
 
-    return (<>
+    return (
+    <>
     <div>
 <div className="flex justify-start items-start w-[1200px] h-[411px] relative overflow-hidden gap-[120px] pl-[120px] pr-[105px] pb-px border-t-0 border-r-0 border-b border-l-0 border-[#ebeef0]">
   <div className="flex-grow-0 flex-shrink-0 w-[381px] h-[340px] relative overflow-hidden bg-[url('언젠가-만나게-될-거예요.-기업은행의-기업은-당신입니다..png')]" />
