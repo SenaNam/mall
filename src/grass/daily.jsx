@@ -17,5 +17,5 @@
 [이슈 및 확인사항]
 - PayPal OAuth 진행 현황 확인
 - Amazon OAuth 진행 현황 확인
-- Shopee OAuth 진행 현황 확인
+- Shopee OAuth 진행 현황 확인...AbortController.
 - 독립몰 약정 등록 관련 백엔드 작업 현황 점검..
