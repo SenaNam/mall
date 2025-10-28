@@ -22,4 +22,4 @@
     /files/board
     /files/banner
 - gos-gos-back-usr 메이븐 클린후 빌드 후 실행 !!!
-- 유져 프론트 백엔드 확인후 머지 할것
+- 유져 프론트 백엔드 확인후 머지 할것....
