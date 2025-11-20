@@ -21,7 +21,7 @@
 #00. 담당자 정보 Not Null로 변경 => 약정할때 필요하다
 #00. cmi002 테이블에 EAI에서 insert 해줄때 FRRG_ID, LSMD_ID 생성순서로 리턴해주는데 이거 뭐라고 입력받을지 확인 필요
 #00. 테스트 계정, 테스트 DB에 전체 insertt
-
+#00. cmi002d CSAC_IDNT_NO 컬럼 약관 동의시 NullAblble로 변경 => 완료
 
 [상기4건 처리 후 진행]
 #00. 어드민 > 권한관리
